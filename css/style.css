@@ -1,0 +1,11 @@
+
+.job {
+    margin: 8px;
+    width: 30%;
+    height:  150px;
+    background-color: #cccccc;
+}
+
+li {
+    list-style-type: none;
+}
